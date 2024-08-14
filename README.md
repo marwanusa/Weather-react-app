@@ -19,7 +19,7 @@ Weather React App is a responsive web application built with React.js and Vite. 
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/weather-react-app.git
+   git clone https://github.com/marwanusa/weather-react-app.git
 
 2. Navigate into the project directory:
 
